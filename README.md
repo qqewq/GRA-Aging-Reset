@@ -1,3 +1,9 @@
+## Citation
+
+If you use this work, please cite:
+
+> Oleg Bitsoev. GRA-Aging-Reset: Multilevel GRA Model of Aging and Epigenetic Reset. Zenodo (2026). https://doi.org/10.5281/zenodo.18702562
+
 # GRA-Aging-Reset
 
 **Многоуровневая GRA Мета-обнулёнка, применённая к старению: от единой информационной причины до практических стратегий продления жизни** [providence.elsevierpure](https://providence.elsevierpure.com/en/publications/loss-of-epigenetic-information-as-a-cause-of-mammalian-aging)
@@ -160,4 +166,5 @@
   - избегать экспериментальных вмешательств без понимания рисков и без медицинского сопровождения. [globalrph](https://globalrph.com/2025/12/the-new-frontier-in-longevity-science-senolytics-and-age-reversal-therapies/)
 
 - **Футуристам и философам:**  
+
   - рассматривать GRA‑формализм как язык для разговора о старении так же, как о сложных ИИ‑системах — через цели, пену и многоуровневое обнуление.
