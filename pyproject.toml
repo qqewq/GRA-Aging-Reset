@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gra-aging-reset"
+version = "0.1.0"
+description = "Многоуровневая GRA-модель старения, эпигенетические часы и стратегии обнуления пены старения."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Твоё Имя", email = "you@example.com" }
+]
+keywords = ["aging", "epigenetics", "senolytics", "longevity", "GRA"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Bio-Informatics"
+]
+
+dependencies = [
+  "numpy",
+  "pandas",
+  "matplotlib",
+  "seaborn",
+  "scikit-learn",
+  "scipy",
+  "statsmodels",
+  "jupyter",
+  "notebook"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/yourname/gra-aging-reset"
+"Repository" = "https://github.com/yourname/gra-aging-reset"
+
+[tool.setuptools]
+packages = ["gra_aging_reset"]
+
+[tool.setuptools.package-dir]
+"" = "src"
