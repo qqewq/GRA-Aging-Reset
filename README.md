@@ -1,8 +1,4 @@
-## Citation
-
-If you use this work, please cite:
-
-> Oleg Bitsoev. GRA-Aging-Reset: Multilevel GRA Model of Aging and Epigenetic Reset. Zenodo (2026). https://doi.org/10.5281/zenodo.18702562
+> DOI: [10.5281/zenodo.18702562](https://doi.org/10.5281/zenodo.18702562)
 
 # GRA-Aging-Reset
 
@@ -168,3 +164,9 @@ If you use this work, please cite:
 - **Футуристам и философам:**  
 
   - рассматривать GRA‑формализм как язык для разговора о старении так же, как о сложных ИИ‑системах — через цели, пену и многоуровневое обнуление.
+## Citation
+
+If you use this work, please cite:
+
+> Oleg Bitsoev. GRA-Aging-Reset: Multilevel GRA Model of Aging and Epigenetic Reset. Zenodo (2026). https://doi.org/10.5281/zenodo.18702562
+
